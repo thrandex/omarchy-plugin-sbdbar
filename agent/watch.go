@@ -10,7 +10,7 @@ import (
 
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/cheebun/omarchy-plugin-sbdbar/agent/internal/daemonpb"
+	"github.com/thrandex/omarchy-plugin-sbdbar/agent/internal/daemonpb"
 )
 
 // watchSession streams everything the bar and the overview/groups tabs need:

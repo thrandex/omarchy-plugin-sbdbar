@@ -10,7 +10,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/cheebun/omarchy-plugin-sbdbar/agent/internal/daemonpb"
+	"github.com/thrandex/omarchy-plugin-sbdbar/agent/internal/daemonpb"
 )
 
 // Sample bodies follow the real providers' field layout, with a documentation IP.

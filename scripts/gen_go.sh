@@ -12,7 +12,7 @@
 set -euo pipefail
 
 root="$(cd "$(dirname "$0")/.." && pwd)"
-module="github.com/cheebun/omarchy-plugin-sbdbar/agent"
+module="github.com/thrandex/omarchy-plugin-sbdbar/agent"
 pkg="$module/internal/daemonpb"
 
 cd "$root/proto"

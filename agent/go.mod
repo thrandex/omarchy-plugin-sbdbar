@@ -1,4 +1,4 @@
-module github.com/cheebun/omarchy-plugin-sbdbar/agent
+module github.com/thrandex/omarchy-plugin-sbdbar/agent
 
 go 1.25.0
 

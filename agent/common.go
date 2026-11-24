@@ -19,7 +19,7 @@ import (
 	"google.golang.org/grpc/credentials/insecure"
 	"google.golang.org/grpc/status"
 
-	"github.com/cheebun/omarchy-plugin-sbdbar/agent/internal/daemonpb"
+	"github.com/thrandex/omarchy-plugin-sbdbar/agent/internal/daemonpb"
 )
 
 // errConfig marks errors that retrying cannot fix; streams exit with code 2 on them.

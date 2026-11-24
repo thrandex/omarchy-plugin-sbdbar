@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cheebun/omarchy-plugin-sbdbar/agent/internal/daemonpb"
+	"github.com/thrandex/omarchy-plugin-sbdbar/agent/internal/daemonpb"
 )
 
 const maxConnections = 150

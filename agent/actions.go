@@ -10,7 +10,7 @@ import (
 
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/cheebun/omarchy-plugin-sbdbar/agent/internal/daemonpb"
+	"github.com/thrandex/omarchy-plugin-sbdbar/agent/internal/daemonpb"
 )
 
 // runAction performs one RPC and returns the JSON result the panel expects.

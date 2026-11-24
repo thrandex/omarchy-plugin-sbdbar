@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cheebun/omarchy-plugin-sbdbar/agent/internal/daemonpb"
+	"github.com/thrandex/omarchy-plugin-sbdbar/agent/internal/daemonpb"
 )
 
 // ipProviders maps the provider names shown in Settings to their JSON endpoints.

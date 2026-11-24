@@ -74,7 +74,7 @@ Built following the official sing-box dashboard design language and Omarchy shel
 ### Method 1: Via Omarchy CLI (Git)
 
 ```bash
-omarchy plugin add https://github.com/cheebun/omarchy-plugin-sbdbar --enable --yes
+omarchy plugin add https://github.com/thrandex/omarchy-plugin-sbdbar --enable --yes
 ~/.config/omarchy/plugins/sbdbar/scripts/build_agent.sh
 ```
 
@@ -83,7 +83,7 @@ omarchy plugin add https://github.com/cheebun/omarchy-plugin-sbdbar --enable --y
 Clone or copy the directory into `~/.config/omarchy/plugins/sbdbar`:
 
 ```bash
-git clone https://github.com/cheebun/omarchy-plugin-sbdbar.git ~/.config/omarchy/plugins/sbdbar
+git clone https://github.com/thrandex/omarchy-plugin-sbdbar.git ~/.config/omarchy/plugins/sbdbar
 ~/.config/omarchy/plugins/sbdbar/scripts/build_agent.sh
 omarchy plugin enable sbdbar
 ```
